@@ -1,6 +1,6 @@
-# Hi there 👋,
+**Hi there 👋,**
 
-## Why are you reading this? Go build something!
+Why are you reading this? Go build something!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
